@@ -1,6 +1,6 @@
 # CISC 4900 project 
 # Printworks customer orders
-![app](app.png)
+![Model](app.PNG)
 ## Create: click create to add new order information 
 
 ## Update: click update to update existing order information 
